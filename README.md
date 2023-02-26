@@ -16,7 +16,7 @@ Aadhaar Based voting system using blockchain technology
 
 Clone Project
 ```
-git clone git@github.com:sanattaori/techdot.git && cd techdot
+git clone git@github.com:arpan-mondal/vote-flow.git && cd voteflow
 ```
 Install Dependencies
 ```
@@ -47,7 +47,7 @@ Step 2 - Creating Voting Smart Contract
 npm install solc
 ```
 
-Replace your aadhaar no and phone number for running project at https://github.com/sanattaori/techdot/blob/7814403250f8b042992c6d437d9f9db8f98f3729/ui/js/app.js#L39
+Replace your aadhaar no and phone number for running project at https://github.com/arpan-mondal/vote-flow/blob/d10ca61deced95420f27c8948e4b96b40b2d2226/ui/js/app.js#L39
 
 Step 3 - Testing in node console
 
