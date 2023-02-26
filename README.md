@@ -98,7 +98,7 @@ $ ganache-cli
 ```
 Paste this adderess to 
 ui/js/clist.js line 17
-https://github.com/sanattaori/techdot/blob/cecabc1917965ed7404e4c444b7572c97e10dcf9/ui/js/clist.js#L17
+https://github.com/arpan-mondal/vote-flow/blob/a85c828393d624b615f2f8f2afc3135c53dfeb28/ui/js/clist.js#L17
 
 
 ### Purpose of test
@@ -126,6 +126,7 @@ user interface and high security.
 * **Akshay Motghare**
 * **Mandar Patil** 
 * **Aniket Narkhede**
+* **Arpan Mondal**
 
 ## License
 
